@@ -5,15 +5,24 @@ La idea de este artículo es poder volcar lo que aprendí en la facultad sobre l
 
 ## Principios
 
-- [El modelo en cascada y su planificación vs iteraciones pequeñas y progreso incremental][agile link]
-- [Principios del _Agile Manifesto_][manifesto link]
+- [El modelo en cascada y su planificación vs iteraciones pequeñas y progreso incremental](#el-modelo-en-cascada-y-su-planificación-vs-iteraciones-pequeñas-y-progreso-incremental)
+- [Principios del _Agile Manifesto_](#principios-del-agile-manifesto)
     - _**Individuals and interactions** over processes and tools_
     - _**Working software** over comprehensive documentation_
     - _**Customer collaboration** over contract negotiation_
     - _**Responding to change** over following a plan_
-- [Scrum][scrum link]
+- [Scrum](#scrum)
     - sprints
     - daily reports/review
+- [Bibliografía](#bibliografía--links)
+
+## Contenido
+
+## El modelo en cascada y su planificación vs iteraciones pequeñas y progreso incremental
+
+## Principios del _Agile Manifesto_
+
+## Scrum
 
 ## Bibliografía / Links
 https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/agile-development/
