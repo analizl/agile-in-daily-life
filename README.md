@@ -1,5 +1,5 @@
 # agile-in-daily-life
-## How agile methodologies can aply to day to day life
+## What I learned about agile methodologies that can be applied on a day-to-day basis
 
 La idea de este artículo es poder volcar lo que aprendí en la facultad sobre las metodologías ágiles y su filosofía, y cómo al ir aprendiéndolo fui encontrando principios básicos que se pueden aplicar a la vida diaria, y al progreso personal.
 
@@ -12,5 +12,7 @@ La idea de este artículo es poder volcar lo que aprendí en la facultad sobre l
     - _**Customer collaboration** over contract negotiation_
     - _**Responding to change** over following a plan_
 - Scrum
+    - sprints
+    - daily reports/review
 
 ## Bibliografía
